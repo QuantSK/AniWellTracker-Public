@@ -9,10 +9,10 @@ AniWellTracker is a free image analysis software optimized for analyzing individ
 AniWellTracker has been developed with Microsoft Visual Basic. NET (shortly, VB.NET) and therefore runs on a PC with Microsoft Windows operating system (Windows 10 recommended).
 
 Users may have to install NET Framework 4.5.1 or higher versions.
-     https://dotnet.microsoft.com/en-us/download/dotnet-framework 
+- https://dotnet.microsoft.com/en-us/download/dotnet-framework 
 
 Recommended hardware specs:
-     PC with CPU of 1st generation Intel i3 or higher and RAM of 4GB or more
+- PC with CPU of 1st generation Intel i3 or higher and RAM of 4GB or more
 
 
 ## More information
