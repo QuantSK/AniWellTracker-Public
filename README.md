@@ -18,6 +18,7 @@ Recommended hardware specs:
 
 ## More information
 Additional executable files, manual and MATLAB code (frame extraction from a video file) can be found at https://vgd.hongik.ac.kr/Software/AniWellTracker.
+Sample source images are also available.
 
 ## License
 
