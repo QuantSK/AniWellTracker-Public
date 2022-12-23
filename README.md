@@ -1,4 +1,3 @@
-# QuantSK
 
 ## AniWellTracker
 AniWellTracker is a free image analysis software optimized for analyzing individual animal movements using multiwell plates, and conduct a case study to test its usefulness. The AniWellTracker sequentially analyzes time-lapse images (extracted from a video) taken at regular time intervals, extracts the positions of individual animals for each well, calculates locomotion parameters, such as average speed related to movement, and visualizes the analysis results using built-in chart functions. The software, written in Visual Basic .NET (VB.NET), is a standalone GUI I hope that many people will make good use of this software to conduct high-thoughput animal studies.program that does not use commercial software or external image analysis libraries. I hope that many people will make good use of this free software to conduct high-thoughput animal studies.
